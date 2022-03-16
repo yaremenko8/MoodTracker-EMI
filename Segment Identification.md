@@ -94,14 +94,14 @@ Customer needs type: Esteem (money, reputation, career),
 ## Crucial subsegments of SEGMENT 2:
 
 ### Public healthcare providers (12% US):
--- Low income patients with no life insurance
--- Can not officially make the usage of the app a mandatory practice
+* Low income patients with no life insurance
+* Can not officially make the usage of the app a mandatory practice
 
 **********************
 
 ### Private healthcare providers (88% US):
--- Medium and High income patients
--- Can just list the app in the bill as a necessary diagnostic tool
+* Medium and High income patients
+* Can just list the app in the bill as a necessary diagnostic tool
 
 
 
