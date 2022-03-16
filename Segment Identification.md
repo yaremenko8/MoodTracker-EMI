@@ -1,16 +1,11 @@
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-I. Segment Identification
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
 SEGMENT 1: CBT Patients
 ======================================================================
 Customer needs type: Safety Needs (mental wellness, hope, confidence, control, peace of mind)
--- Urban/suburban area (you don't have access to CBT if you live in a rural area)
--- Wealthy or from CANZUK/US/EU (NHS + Insurance + Government aid)
--- Socially aware (uptake is significantly less likely otherwise)
--- Mostly white ~88% [1] (+ ratio of race demographics, i.e. 76% white in the US)
--- Mostly female ~70% [1] + [2]
+* Urban/suburban area (you don't have access to CBT if you live in a rural area)
+* Wealthy or from CANZUK/US/EU (NHS + Insurance + Government aid)
+* Socially aware (uptake is significantly less likely otherwise)
+* Mostly white ~88% [1] (+ ratio of race demographics, i.e. 76% white in the US)
+* Mostly female ~70% [1] + [2]
 -- Currently receiving CBT/DBT (obviously)
 --------------------------------------------------------------------
 Crucial subsegments of SEGMENT 1:
@@ -96,69 +91,9 @@ Customer needs type: Esteem (money, reputation, career),
 
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-II. Assessment of segment attractiveness
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-SEGMENT 1:
-==========================================================================
-Measurability: The customer segment is subject to heavy research efforts
-               by academics. A great deal of statistical data and scientific
-               insights are availiable.
-Accessibility: Great reach through private healthcare enterprises. Well handled
-               by recommender systems. If you buy meds online, search for a
-               a therapist online or watch related videos, the recommender
-               system will instantly spot you.
-Substantiality: 4.1%-8.3% of adult population in CANZUK/US/EU!
-Responsiveness: Customers in this segment take such marketing offers very
-                seriously.
-Differentiability: The segment has very distinct needs, and a number of 
-                   peculiar attributes that the vast majority of it shares.
-                   However there is a great diversity in age, income,
-                   relationship status and supposedly aesthetical preferences.
-                   The subsegments on the other hand tend to be more homogenous.
-Actionable: The nature of the segment makes the choice of adequate
-            marketing measures abundantly clear. Mental wellness, hope, confidence, 
-            control, peace of mind, ... -- the customer has a great demand for
-            those. And if you can convince them that your product can 
-            provide any of the above, then it's in the bag.
-                
------------------------------------------------------------------------------------------                
-                
-SEGMENT 2:
-=========================================================================================
-Measurability: The customer segment is subject to both heavy monitoring
-               by academics and auditing measures by their respective private
-               enterprises. A great deal of ever evolving statistical data
-               is availiable from this constant scrutiny and monitoring.
-Accessibility: Great reach through private healthcare enterprises. Well handled
-               by recommender systems. Therapists regularly do a lot of stuff 
-               online that reveals their occupation.
-Substantiality: If we reach this segment, we automatically reach SEGMENT 1. 
-                1 reached therapist = 100 reached patients.
-Responsiveness: Customers in this segment take such marketing offers, 
-                seriously, since those offers may have objective monetary value.
-Differentiability: A concrete occupation that also happens to be
-                   homogenous in a number of aspects: age, views, income, 
-                   education and even gender (although to a lesser degree). 
-Actionable: The segment mostly consists of people, who can be targeted
-            as platform providers or as secondary users. They have a paragmatic
-            mindset regarding services that can potentially enhance the product
-            of their labour. As long as we can convince them that our product 
-            will produce some value for their business, they will become our
-            customers or will greatly contribute to the sales of our product.
-
-                
-
-
-
-
-
-
-__________________________________________________________________
-References for SEGMENT 1:
-___________________________________________________________________
-[1]
+References:
+===========
+* [1]
 https://www.mentalhealth.org.uk/statistics/mental-health-statistics-people-seeking-help#:~:text=One%20adult%20in%20eight%20(12.1,both%20medication%20and%20psychological%20therapy.
 
 Treatment uptake by type of common mental health problem
@@ -179,22 +114,23 @@ White British people are more likely to receive mental health
 treatment (13.3%) compared to BAME groups (7%). The lowest percentage 
 of people receiving treatment were those from black ethnic 
 minority groups (6.2%).
-____________________________________________________________________
-[2]
+
+
+* [2]
 https://en.wikipedia.org/wiki/Mental_disorders_and_gender
 
-___________________________________________________________________
-[3]
+
+* [3]
 https://www.nimh.nih.gov/health/statistics/obsessive-compulsive-disorder-ocd
-___________________________________________________________________
-[4]
+
+ * [4]
 PTSD can occur in all people, of any ethnicity, nationality or culture, and 
 at any age. PTSD affects approximately 3.5 percent of U.S. adults every
  year, and an estimated one in 11 people will be diagnosed with PTSD in 
 their lifetime. Women are twice as likely as men to have PTSD.
 https://www.psychiatry.org/patients-families/ptsd/what-is-ptsd#:~:text=PTSD%20can%20occur%20in%20all,as%20men%20to%20have%20PTSD.
-____________________________________________________________________
-[5]
+
+* [5]
 https://www.cdc.gov/nchs/products/databriefs/db379.htm#:~:text=Data%20from%20the%20National%20Health%20Interview%20Survey&text=The%20percentage%20of%20adults%20who%20experienced%20any%20symptoms%20of%20depression,30%E2%80%9344%20(16.8%25).
 The percentage of adults who experienced any symptoms of depression was
  highest among those aged 18–29 (21.0%), followed by those aged 45–64 
@@ -203,23 +139,20 @@ The percentage of adults who experienced any symptoms of depression was
 In 2019, 2.8% of adults experienced severe symptoms of depression, 4.2% 
 experienced moderate symptoms, and 11.5% experienced mild symptoms in the past 
 2 weeks.
-______________________________________________________________________
-[6]
+
+* [6]
 https://www.nimh.nih.gov/health/statistics/panic-disorder
 
-_____________________________________________________________________
-[7]
+
+* [7]
 https://www.nimh.nih.gov/health/statistics/eating-disorders
 https://www.nationaleatingdisorders.org/statistics-research-eating-disorders
-_____________________________________________________________________
-[8]
+
+* [8]
 https://drugabusestatistics.org/#:~:text=9.5%20million%20or%203.8%25%20of,marijuana%20and%20prescription%20pain%20relievers.
 
 
-___________________________________________________________________
-References for SEGMENT 2:
-___________________________________________________________________
-[9]
+* [9]
 https://www.zippia.com/therapist-jobs/demographics/
 
 Research Summary. Using a database of 30 million profiles, 
@@ -242,12 +175,11 @@ The top 10% of highest-paid Therapists earn as much as $70,000 or more.
 New Hampshire is the best state for Therapists to live.
 Therapists are more likely to work at Private companies in comparison to Public companies.
 
-____________________________________________________________________________
-[10] Indirect evidence
+* [10] Indirect evidence
 https://www.aei.org/carpe-diem/academic-psychologists-value-diversity-but-now-find-that-liberal-psychology-professors-outnumber-conservatives-141/
 https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/it-may-be-harder-than-we-thought-but-political-diversity-will-still-improve-social-psychological-science-1/D5F01D199C5A3EF10507F05C12BE7729
-____________________________________________________________________________
-[11]
+
+* [11]
 https://www.apa.org/monitor/2018/07-08/datapoint#:~:text=The%20age%20distribution%20of%20the,younger%20psychologists%20entered%20the%20workforce.&text=In%202006%2C%20the%20majority%20(65,to%2055%20(35%20percent).
 
 
