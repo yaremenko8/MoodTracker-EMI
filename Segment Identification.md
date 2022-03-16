@@ -24,7 +24,9 @@ patients = prevalence * uptake = 2.5%
 -- mostly female ~66% [4]
 
 prevalence = 3.5% [4]
+
 uptake = ~24.7% [1]
+
 patients = prevalence * uptake = 0.9%
 
 ****************
