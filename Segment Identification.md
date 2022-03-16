@@ -15,13 +15,15 @@ Customer needs type: Safety Needs (mental wellness, hope, confidence, control, p
 1. Depression (30.1%):
 
 prevalence = 4.2% [5]
+
 uptake = 59.4% [1]
+
 patients = prevalence * uptake = 2.5%
 
 ****************
 
 2. PTSD (10.8%):
--- mostly female ~66% [4]
+  * mostly female ~66% [4]
 
 prevalence = 3.5% [4]
 
@@ -32,33 +34,40 @@ patients = prevalence * uptake = 0.9%
 ****************
 
 3. OCD (14.5%):
--- mostly female (~78%) [3]
+  * mostly female (~78%) [3]
 
 prevalence = 2.3% [3]
+
 uptake = 52.1% [1]
+
 patients = prevalence * uptake = 1.2%
 
 ****************
 
 4. Anxiety/Panic disorder (12.0%):
--- mostly female (~70%)  [6]
--- mostly 30+ years old (~73%) [6]
+* mostly female (~70%)  [6]
+* mostly 30+ years old (~73%) [6]
 
 prevalence = 4.7% [6]
+
 uptake = 20.9% [1]
+
 patients = prevalence * uptake = 1.0%
 
 ****************
 
 5. Addiction (24.1%):
+
 prevalence = 3.8% [8]
+
 uptake = 51.4% [8]
+
 patients = prevalence * uptake = 2.0%
 
 ****************
 
 6. Eating disorders (8.4%):
--- mostly women (~66%) [7]
+* mostly women (~66%) [7]
 
 prevalence = 2.7% [7]
 uptake = 24.7 [1]
