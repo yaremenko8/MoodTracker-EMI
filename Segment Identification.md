@@ -6,9 +6,10 @@ Customer needs type: Safety Needs (mental wellness, hope, confidence, control, p
 * Socially aware (uptake is significantly less likely otherwise)
 * Mostly white ~88% [1] (+ ratio of race demographics, i.e. 76% white in the US)
 * Mostly female ~70% [1] + [2]
--- Currently receiving CBT/DBT (obviously)
---------------------------------------------------------------------
-Crucial subsegments of SEGMENT 1:
+* Currently receiving CBT/DBT (obviously)
+
+
+## Crucial subsegments of SEGMENT 1:
 (data based on US statistics)
 
 1. Depression (30.1%):
