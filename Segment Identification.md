@@ -10,9 +10,9 @@ Customer needs type: Safety Needs (mental wellness, hope, confidence, control, p
 
 
 ## Crucial subsegments of SEGMENT 1:
-(data based on US statistics)
 
-1. Depression (30.1%):
+
+### Depression (30.1%):
 
 prevalence = 4.2% [5]
 
@@ -22,7 +22,7 @@ patients = prevalence * uptake = 2.5%
 
 ****************
 
-2. PTSD (10.8%):
+### PTSD (10.8%):
   * mostly female ~66% [4]
 
 prevalence = 3.5% [4]
@@ -33,7 +33,7 @@ patients = prevalence * uptake = 0.9%
 
 ****************
 
-3. OCD (14.5%):
+### OCD (14.5%):
   * mostly female (~78%) [3]
 
 prevalence = 2.3% [3]
@@ -44,7 +44,7 @@ patients = prevalence * uptake = 1.2%
 
 ****************
 
-4. Anxiety/Panic disorder (12.0%):
+### Anxiety/Panic disorder (12.0%):
 * mostly female (~70%)  [6]
 * mostly 30+ years old (~73%) [6]
 
@@ -56,7 +56,7 @@ patients = prevalence * uptake = 1.0%
 
 ****************
 
-5. Addiction (24.1%):
+### Addiction (24.1%):
 
 prevalence = 3.8% [8]
 
@@ -66,7 +66,7 @@ patients = prevalence * uptake = 2.0%
 
 ****************
 
-6. Eating disorders (8.4%):
+### Eating disorders (8.4%):
 * mostly women (~66%) [7]
 
 prevalence = 2.7% [7]
@@ -80,23 +80,26 @@ SEGMENT 2: CBT Providers
 =====================================================================
 Customer needs type: Esteem (money, reputation, career), 
                      Self-actualization (efficiency, career)
--- Urban/suburban area
--- Rear wealthy professional or from CANZUK/US/EU
--- Educated
--- Socially aware
--- Mostly white ~76% [9]
--- Mostly women ~70% [9]
--- Liberal, left-wing or centrist ~94% [10]
--- 36+ years old ~83% [11]
--- Providing or prescribing CBT/DBT
-----------------------------------------------------------------------
-1. Public healthcare providers (12% US):
+* Urban/suburban area
+* Rear wealthy professional or from CANZUK/US/EU
+* Educated
+* Socially aware
+* Mostly white ~76% [9]
+* Mostly women ~70% [9]
+* Liberal, left-wing or centrist ~94% [10]
+* 36+ years old ~83% [11]
+* Providing or prescribing CBT/DBT
+
+
+## Crucial subsegments of SEGMENT 2:
+
+### Public healthcare providers (12% US):
 -- Low income patients with no life insurance
 -- Can not officially make the usage of the app a mandatory practice
 
 **********************
 
-2. Private healthcare providers (88% US):
+### Private healthcare providers (88% US):
 -- Medium and High income patients
 -- Can just list the app in the bill as a necessary diagnostic tool
 
