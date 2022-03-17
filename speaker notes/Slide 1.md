@@ -8,6 +8,7 @@ Our vision is "An app that provides powerful means to improve one's life."
 Our mission is "To provide a significantly more comfortable experience of maintaining a mood diary and to boost its usefulness.".
 
 A couple of words about our intended brand experience:
+
 The sensory experience is supposed to be smooth, gentle and tender.
 
 The affective experience is meant to involve peace, confidence, control, comfort and affirmation.
