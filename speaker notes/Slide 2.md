@@ -19,7 +19,8 @@ People in this segment are mostly white, mostly female, they live in urban and s
 and they are diverse in age, income and relationship status. Almost all of them have either Depression, Addiction, OCD, PTSD, 
 Anxiety or Eating disorders. They comprise 1% to 6% of the adult population in these countries.
 
-Easilly reached via their healthcare provider and recommendation systems.
+They're easilly reached via their healthcare provider and recommendation systems. 
+The segment is under heavy monitoring.
 
 -----------------------------------------------------
 
@@ -29,8 +30,8 @@ In this segment we once again have people from an urban or suburban area that ar
 socially aware, mostly 36 years of age or older, almost all of them are left-wing, liberal or centrist. This segment is smaller than segment 1,
 but reaching a single person from segment 2, means reaching a 100 people from segment 1. 88% of them work in the private sector.
 
-Easilly reached via their employer and recommendation systems.
-
+They're easilly reached via their employer and recommendation systems. 
+The segment is under heavy auditing and scrutiny.
 
 Both segments are attractive.
 
