@@ -33,3 +33,6 @@ Easilly reached via their employer and recommendation systems.
 
 
 Both segments are attractive.
+
+## Timing
+
