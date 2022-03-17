@@ -25,6 +25,7 @@
 * Confidence
 * Control
 * Comfort
+* Affirmation
 
 #### Behavioral
 * Consistency
