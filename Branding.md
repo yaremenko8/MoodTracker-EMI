@@ -9,10 +9,10 @@
 * The word "together" may also suggest the participation of a therapist. If a "customer" from "SEGMENT 2" were to read the slogan in first person, then that would sound like an inspiring proposition that they themselves could make.
 
 ## Mission
-To provide a significantly more comfortable experience of maintaining a mood diary and to boost its usefulness.
+``To provide a significantly more comfortable experience of maintaining a mood diary and to boost its usefulness.''
 
 ## Vision
-An app that provides powerful means to improve your life.
+``An app that provides powerful means to improve your life.''
 
 ## Brand experience
 #### Sensory
