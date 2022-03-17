@@ -12,7 +12,7 @@
 To provide a significantly more comfortable experience of maintaining a mood diary and to boost its usefulness.
 
 ## Vision
-a
+An app that provides powerful means to improve your life.
 
 ## Brand experience
 #### Sensory
