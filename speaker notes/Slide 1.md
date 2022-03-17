@@ -15,13 +15,21 @@ The affective experience is meant to involve peace, confidence, control, comfort
 
 From the behavioral standpoint we have consistency, order and proactivity.
 
+--
+
 And the associated intellectual experience would have a lot to do with how one
 would use those observations to eliminate stress patterns in their day to day life, 
 ... which is in essence what mood diaries are for other than for diagnostics.
 
+--
 
 
 Our slogan is "Let's improve your mood together". 
 The slogan is inteded to reflect that our product radiates confidence, commitment and affirmation.
 
-## 
+## Timing
+```
+Natural pace: 1 m 30 s (too long)
+Rushed: 1m 10s (still bad)
+Rushed +  
+```
