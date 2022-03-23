@@ -10,18 +10,21 @@ So, here are our target segments.
 
 ----------------------------------------------------
 
-SEGMENT 1: CBT patients from core anglosphere and Europe.
+SEGMENT 1: CBT patients.
 
-People in this segment are mostly white, mostly female, living in urban/suburban areas and socially aware. 
-Almost all of them have one of the six most common mental disorders. 
-They comprise 1% to 6% of adult population.
+People in this segment live in the core anglosphere in urban/suburban areas.
+They have either life insurance or at least middle income.
+They suffer from one of the six most common mental disorders. 
+Such people comprise 1% to 6% of adult population.
 
 -----------------------------------------------------
 
-SEGMENT 2: Private CBT providers in those very same countries.
+SEGMENT 2: CBT providers.
 
-Once again: urban/suburban area, mostly white, mostly female. They are educated,
-socially aware, 36 years of age or older, non-rightwing, non-conservative. 
+Once again: urban/suburban area in the core anglosphere. 
+They are educated, 30 years of age or older with lower middle to true middle income.
+Among them are Innovators, Thinkers and Strivers that are liberal/left-wing or centrist.
+
 
 Both segments are easy to reach via healthcare enterprises and recommendation systems.
 Both segments are under heavy monitoring by academics.
